@@ -1,0 +1,36 @@
+body {
+  background-color: #27496d;
+}
+h1 {
+  text-align: center;
+  font-family: "Bangers", cursive;
+  color: #dbdbdb;
+  font-size: 5rem;
+  padding-top: auto;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+  font-family: "Bangers", cursive;
+  color: #dbdbdb;
+}
+
+img {
+  width: 90%;
+}
+
+footer {
+  font-family: "Bangers", cursive;
+  color: #dbdbdb;
+  text-align: center;
+  margin-top: 5%;
+}
+p {
+  font-size: x-large;
+}
